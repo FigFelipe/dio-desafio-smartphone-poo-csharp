@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smartphone", "Smartphone.csproj", "{C20625F1-DA5D-40FE-8BE9-B2C98DBA767C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSmartphone", "DesafioSmartphone.csproj", "{C20625F1-DA5D-40FE-8BE9-B2C98DBA767C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
